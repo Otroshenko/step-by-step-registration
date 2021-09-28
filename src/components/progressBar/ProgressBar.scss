@@ -1,0 +1,16 @@
+.progress-bar {
+  position: relative;
+  height: 10px;
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+.filler {
+  background: #1C9BFF;
+  height: 100%;
+  transition: width .2s ease-in;
+}

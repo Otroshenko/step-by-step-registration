@@ -1,0 +1,26 @@
+.select-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px 0;
+}
+
+.select-label {
+  font-size: 14px;
+  color: #495057;
+  display: block;
+  margin: 15px 0;
+  text-align: center;
+}
+
+.select {
+  padding: 15px;
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 14px;
+  background: inherit;
+  color: #495057;
+  border-radius: 3px;
+}
